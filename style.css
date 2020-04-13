@@ -75,7 +75,7 @@ body {
 }
 
 .card-intro{
-  min-height: 322px;
+  min-height: 324px;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
