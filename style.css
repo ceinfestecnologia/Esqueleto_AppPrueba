@@ -75,7 +75,11 @@ body {
 }
 
 .card-intro{
-  min-height: 324px;
+  min-height: 352px;
+}
+
+.text-card-header{
+  height: 56px;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
