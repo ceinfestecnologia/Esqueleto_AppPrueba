@@ -63,6 +63,17 @@ body {
   background-color: #fff;
 }
 
+.text-nav-title{
+  margin-right: 20px;
+  font-size:1.5rem;
+}
+
+.text-nav-fecha{
+  margin-right: 20px;
+  font-size:1.5rem;
+  color: #909090;
+}
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
